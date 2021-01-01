@@ -192,7 +192,7 @@ $(function () {
 
 /* Google Map Options */
 function initMap() {
-	var myLatlng = new google.maps.LatLng(51.531850,-0.128724); // <- My current coordinates
+	var myLatlng = new google.maps.LatLng(48.11457,9.80005); // <- My current coordinates
 	var styles = [
 	{
 		"featureType": "water",
